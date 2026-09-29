@@ -13,7 +13,7 @@
 ## Enlaces del Proyecto
  **Fork 1:** [Seismic Data Visualization System by arianaSilva-dev](https://github.com/arianaSilva-dev/Seismic-Data-Visualization-System)
  
- **Fork 2:**
+ **Fork 2:**  [Seismic Data Visualization System by zacksito6-dev](https://github.com/zacksito6/Seismic-Data-Visualization-System)
  
  **Fork Base:** [Seismic Data Visualization System](https://github.com/gabrielhuav/Seismic-Data-Visualization-System)
   
